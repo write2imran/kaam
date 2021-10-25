@@ -17,7 +17,7 @@ export default {};
 .main-nav a {
   display: inline-block;
   text-decoration: none;
-  margin: 0 10px;
+  margin: 0px 10px;
   color: #999;
   font-size: 18px;
 }
